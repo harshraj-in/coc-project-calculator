@@ -112,7 +112,7 @@ Through this project, I learned:
 ## ✨ Author
 **Harsh Raj**  
 📧 Email: harshraj3102006@gmail.com  
-💻 GitHub: [github.com/harshraj3102006](https://github.com/harshraj-in)
+💻 GitHub: (https://github.com/harshraj-in)
 
 ---
 
@@ -123,3 +123,4 @@ This project is open-source and created for educational purposes as part of the 
 
 ## 🔗 Submission
 **Repository Link:** *[https://github.com/harshraj-in/coc-project-calculator]*
+
